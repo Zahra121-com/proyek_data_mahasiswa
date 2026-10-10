@@ -1,0 +1,11 @@
+LAPORAN DATA MAHASISWA
+Jumlah mahasiswa : 4
+Rata-rata IPK    : 3.67
+Jumlah per jurusan:
+  ilkom: 1
+  sistem informasi: 2
+  SI: 1
+3 IPK tertinggi:
+  ZAHRA      2417052012         SI               Smt 4  IPK 4.00
+  zahra      2517052012         sistem informasi Smt 3  IPK 3.67
+  25170521   zahra              ilkom            Smt 3  IPK 3.50

@@ -1,0 +1,5 @@
+nim|nama|jurusan|semester|ipk|email
+25170521|zahra|ilkom|3|3.5|-
+2517052012|zahra chintya bela|sistem informasi|3|3.5|-
+ZAHRA|2417052012|SI|4|4.0|-
+zahra|2517052012|sistem informasi|3|3.67|-
